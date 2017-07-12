@@ -130,10 +130,10 @@ def uninstall(uninstaller_path):
 
 
 def main():
-    installer = r'C:\Users\Administrator\Downloads\2345pinyin_4.5.1.5353.exe'
+    installer = r'C:Users\wo\Desktop\2345pinyin_v4.6.5804.exe'
     install(installer)
 
-    uninstaller = r'C:\Program Files (x86)\2345Soft\2345Pinyin\4.5.1.5353\Uninstall.exe'
+    uninstaller = r'C:\Program Files (x86)\2345Soft\2345Pinyin\4.6.1.5804\Uninstall.exe'
     uninstall(uninstaller)
 
 
